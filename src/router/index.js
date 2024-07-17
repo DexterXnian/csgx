@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import Home from '../components/Home.vue';
-import Region from '../components/Region.vue';
+import Point from '../components/Point.vue';
 
 const routes = [
   {
@@ -9,9 +9,9 @@ const routes = [
     component: Home
   },
   {
-    path: '/region/:regionName',
-    name: 'Region',
-    component: Region,
+    path: '/point/:point',
+    name: 'Point',
+    component: Point,
     props: true
   }
 ];
