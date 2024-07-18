@@ -32,7 +32,9 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin-top: 20px;
+    /* margin: 20px; */
+    padding: 0 20px 20px 20px;
+    /* margin-bottom: 40px; 确保底部有留白 */
   }
   
   .image-container {
@@ -46,6 +48,7 @@
   width: 100%;
   height: 100%;
   object-fit: cover; /* 确保图像填满容器，并保持其比例 */
+  border-radius: 5px;
 }
   .label {
     position: absolute;

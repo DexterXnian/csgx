@@ -1,57 +1,117 @@
 <template>
-  <div>
-    <h1>城市更新</h1>
-    <ul>
-      <li v-for="point in points" :key="point.id">
-        <router-link :to="{ name: 'Point', params: { point: point.点位 } }">
-          {{ point.点位 }}
-        </router-link>
-      </li>
-    </ul>
+  <div class="home">
+    <!-- <header class="header">  
+    </header> -->
+    <div class="content">
+      <main class="main-content">
+        <GotoComponent />
+        <div class="button-container">
+          <button @click="showMap('left')" :class="{ active: currentMap === 'left' }">左</button>
+          <button @click="showMap('center')" :class="{ active: currentMap === 'center' }">中</button>
+          <button @click="showMap('right')" :class="{ active: currentMap === 'right' }">右</button>
+        </div>
+        <div v-if="currentMap === 'left'" class="map-container">
+          <img src="@/assets/maps/左-图溯上海 城市更新.jpg" alt="地图1" class="map-image" />
+        </div>
+        <div v-if="currentMap === 'center'" class="map-container">
+          <img src="@/assets/maps/中-图溯上海 城市更新.jpg" alt="地图2" class="map-image" />
+        </div>
+        <div v-if="currentMap === 'right'" class="map-container">
+          <img src="@/assets/maps/右-图溯上海 城市更新.jpg" alt="地图3" class="map-image" />
+        </div>
+      </main>
+    </div>
   </div>
 </template>
 
 <script>
-import { ref, onMounted } from 'vue';
+import GotoComponent from './GotoComponent.vue';
 
 export default {
-  name: 'Home',
-  setup() {
-    const points = ref([]);
-
-    const fetchPoints = async () => {
-      try {
-        const response = await fetch('/outputjson_point.json');
-        const data = await response.json();
-
-        if (Array.isArray(data)) {
-          points.value = data;
-        } else {
-          console.error('Fetched data is not an array:', data);
-        }
-      } catch (error) {
-        console.error('Error fetching points data:', error);
-      }
+  name: "Home",
+  components: {
+    GotoComponent
+  },
+  data() {
+    return {
+      currentMap: 'left', // 默认显示左地图
     };
-
-    onMounted(fetchPoints);
-
-    return { points };
+  },
+  methods: {
+    showMap(map) {
+      this.currentMap = map;
+    }
   }
 };
 </script>
 
 <style scoped>
-h1 {
-  text-align: center;
+.home {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
 }
 
-ul {
-  list-style-type: none;
-  padding: 0;
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
 }
 
-li {
-  margin: 10px 0;
+.home-icon {
+  position: absolute;
+  left: 10px;
+  width: 24px;
+  height: 24px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  overflow: hidden;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.button-container button {
+  cursor: pointer;
+  padding: 10px 20px;
+  background-color: #3490dc;
+  color: white;
+  font-weight: bold;
+  border-radius: 8px;
+  border: none;
+  margin: 0 10px;
+}
+
+.button-container button.active {
+  background-color: #2779bd;
+}
+
+.main-content {
+  flex: 1;
+  position: relative; /* 关键部分 */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  overflow-y: auto;
+  width: 100%;
+}
+
+.map-container {
+  width: 100%;
+  text-align: center; /* 中心对齐图片 */
+}
+
+.map-image {
+  width: 100%;
+  height: auto;
 }
 </style>

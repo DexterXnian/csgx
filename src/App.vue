@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <Particle />
     <router-view />
   </div>
 </template>

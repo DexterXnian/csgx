@@ -66,6 +66,7 @@ export default {
     };
 
     onMounted(fetchPoint);
+    
     const formattedDescription = computed(() => {
       return point.value ? point.value.描述.replace(/\n/g, '<br>') : '';
     });
@@ -77,7 +78,7 @@ export default {
 
 <style scoped>
 .header {
-  position: absolute;
+  position: fixed;
   top: 20px; /* 距离顶部的距离 */
   left: 20px; /* 距离左边的距离 */
   z-index: 1000; 
@@ -92,7 +93,11 @@ export default {
 
 h1 {
   text-align: center;
-  /* margin-left: 20px; */
+  color: #333;
+}
+
+h3 {
+  text-align: center;
   color: #333;
 }
 
@@ -105,18 +110,10 @@ h1 {
 .point-container {
   background-color: aquamarine;
   background-image: url("@/assets/cool-background2.png");
-  /* margin: 20px; */
+  padding-top: 60px; /* 为了避免被固定的header覆盖 */
 }
 
-.original-site {
-  text-align: center;
-  font-weight: bold;
-  font-size: 16px;
-  color: #666;
-  margin-bottom: 10px;
-}
-
-.address {
+.original-site, .address {
   text-align: center;
   font-weight: bold;
   font-size: 16px;
@@ -134,10 +131,12 @@ h1 {
 }
 
 .description {
-  /* margin-top: 20px; */
   font-size: 14px;
   color: #444;
-  text-align:justify;
+  text-align: justify;
 }
 
+.point-details {
+  padding-bottom: 20px; /* 为了增加底部留白 */
+}
 </style>
