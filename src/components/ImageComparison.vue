@@ -22,7 +22,7 @@
       newImage: {
         type: String,
         required: true,
-      },
+      }, 
     },
   };
   </script>

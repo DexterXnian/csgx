@@ -1,0 +1,511 @@
+[
+    {
+        "id": 7,
+        "点位": "上海油罐艺术中心",
+        "原址": "龙华机场储油罐",
+        "区域": "徐汇区",
+        "地址": "龙腾大道2380号",
+        "X": -704.460806298566,
+        "Y": -7656.60750482184,
+        "images": [
+            "/src/assets/imgs/img7_1.JPG",
+            "/src/assets/imgs/img7_2.JPG"
+        ],
+        "oldImage": "/src/assets/imgs_comparison/7 上海油罐艺术中心-84.jpg",
+        "newImage": "/src/assets/imgs_comparison/7 上海油罐艺术中心-23.jpg",
+        "描述1": "上海油罐艺术中心坐落于黄浦江畔中国最早的机场——上海龙华机场原址，由五个被完整保留的废弃储油罐组成，三个油罐连接作为美术馆展览空间，其余则作为配套功能使用。是集合各式各样的展览空间、公园、绿地、广场、江景、咖啡厅为一体的艺术生态，是上海充满活力的艺术文化地标，由收藏家乔志兵先生创办。",
+        "描述2": "油罐内部空间开阔，挑高15米以上，拥有极具工业特点的穹顶及曲面圆周空间。通过当代艺术展览、活动，公众可以亲近感受艺术、建筑、城市、自然和出色的黄浦江景观。",
+        "background_img": "/src/assets/imgs_background/15.JPG",
+        "live_images": [
+            "/src/assets/imgs_lives/img7_1.JPG",
+            "/src/assets/imgs_lives/img7_2.JPG",
+            "/src/assets/imgs_lives/img7_3.JPG",
+            "/src/assets/imgs_lives/img7_4.JPG"
+        ]
+    },
+    {
+        "id": 8,
+        "点位": "西岸穹顶艺术中心",
+        "原址": "上海水泥厂",
+        "区域": "徐汇区",
+        "地址": "龙腾大道2350号",
+        "X": -710.279647734798,
+        "Y": -7730.67019410291,
+        "images": [
+            "/src/assets/imgs/img8_1.JPG",
+            "/src/assets/imgs/img8_2.JPG",
+            "/src/assets/imgs/img8_3.JPG"
+        ],
+        "oldImage": "/src/assets/imgs_comparison/8 西岸穹顶艺术中心-84.jpg",
+        "newImage": "/src/assets/imgs_comparison/8 西岸穹顶艺术中心-23.jpg",
+        "描述1": "西岸穹顶艺术中心的前身是具有百年历史的上海水泥厂的预均化库，于1923年投产“象牌”水泥。上海海关大楼、国际饭店等都采用“象牌”水泥来建造，上海水泥厂的发展可以说是追随了中国上个世纪的现代化进程，也是中国与上海百年工业历史的缩影。对这座旧厂房的更新改造，在保留预均化库原始形态和结构的基础上，赋予其新的功能。首先，建筑内部保留了橙色的初始结构，并增加了新的结构框架，用来支持场馆的多功能使用场景。内部空间植入了很多新的空间，包括进入到建筑的18个门厅，以及为了提供更好的观演体验，二楼增加了一圈观演回廊。此外，屋顶以全新的半透明聚碳酸酯材料覆盖，建筑立面做成了通透的玻璃立面，既能够让阳光进入到室内中庭空间，也可以大大减轻荷载，满足节能要求。",
+        "描述2": "西岸穹顶艺术中心是西岸梦中心的项目之一，其能容纳2500人，是举办艺术展览、音乐会、体育赛事和其他活动的理想场馆。此处不仅标志着西岸滨江又诞生一处兼具文化性、艺术性、趣味性的全新空间，而且将成长为极具国际水准展出、演艺活动的“发声场”。",
+        "live_images": [
+            "/src/assets/imgs_lives/img8_1.JPG",
+            "/src/assets/imgs_lives/img8_2.JPG",
+            "/src/assets/imgs_lives/img8_3.JPG",
+            "/src/assets/imgs_lives/img8_4.JPG"
+        ]
+    },
+    {
+        "id": 12,
+        "点位": "M50创意园",
+        "原址": "春明粗纺厂",
+        "区域": "普陀区",
+        "地址": "莫干山路50号",
+        "X": -2154.39098129661,
+        "Y": 1596.79322437755,
+        "images": [
+            "/src/assets/imgs/img12_1.JPG",
+            "/src/assets/imgs/img12_2.JPG",
+            "/src/assets/imgs/img12_3.JPG",
+            "/src/assets/imgs/img12_4.JPG"
+        ],
+        "oldImage": "/src/assets/imgs_comparison/12 M50创意园-84.jpg",
+        "newImage": "/src/assets/imgs_comparison/12 M50创意园-23.jpg",
+        "描述1": "M50创意园位于苏州河南岸半岛地带的莫干山路50号，占地面积约41亩，建筑面积41606平方米，拥有自上世纪30年代至90年代各个历史时期的工业建筑50余幢，是苏州河畔保留完整的民族工业建筑遗存。此地原为近代徽商代表人物之一周氏的家族企业——信和纱厂，后更名为上海第十二毛纺织厂、上海春明粗纺厂。",
+        "描述2": "根据上海纺织产业结构调整的需要，春明厂从1999年底停止了原主业的生产。2000年起，通过都市型工业园区的建设和业态调整，逐步引进了以视觉艺术和创意设计为主体的艺术家工作室、文化艺术机构和设计企业，逐步成为上海具有标志意义的创意园区之一，营造了苏州河畔浓厚的艺术创意气息，吸引了众多国内外的收藏家、艺术爱好者、市民和游客纷至沓来。",
+        "live_images": [
+            "/src/assets/imgs_lives/img12_1.JPG",
+            "/src/assets/imgs_lives/img12_2.JPG",
+            "/src/assets/imgs_lives/img12_3.JPG",
+            "/src/assets/imgs_lives/img12_4.JPG",
+            "/src/assets/imgs_lives/img12_5.JPG",
+            "/src/assets/imgs_lives/img12_6.JPG",
+            "/src/assets/imgs_lives/img12_7.JPG"
+        ]
+    },
+    {
+        "id": 16,
+        "点位": "绿之丘",
+        "原址": "烟草公司机修仓库",
+        "区域": "杨浦区",
+        "地址": "杨树浦路1426号",
+        "X": 6316.24632544554,
+        "Y": 2436.91838902328,
+        "images": [
+            "/src/assets/imgs/img16_1.JPG",
+            "/src/assets/imgs/img16_2.JPG",
+            "/src/assets/imgs/img16_3.JPG",
+            "/src/assets/imgs/img16_4.JPG"
+        ],
+        "oldImage": "/src/assets/imgs_comparison/16 绿之丘-84.jpg",
+        "newImage": "/src/assets/imgs_comparison/16 绿之丘-23.jpg",
+        "描述1": "绿之丘的前身是建造于1995年的上海海烟机修厂仓库。自1996年落成以来，主要承担着仓储功能。本世纪初，随着烟草公司的迁移，这里逐渐没了人气，一直是废弃状态。它的体量庞大，矗立在临江10米左右的区域，当时的它既缺乏明确的工艺价值，也不具备明显的建筑美学特征，还在视觉上横向阻隔了城市与滨江的联系，同时也纵向阻挡了将要新增的滨江沿岸道路的通行计划。",
+        "描述2": "在盘活工业建筑和减量发展的大背景下，2016—2019年期间，通过斜向切削，该建筑形成引导城市空间向滨水延伸的态势，并覆盖绿植，使得整个建筑犹如一座巨大的绿丘。绿之丘以其独特的工业历史印记、良好的滨江景观视野吸引社会各方的青睐，将原本的封闭空间转变为向市民群众开放的生态公共空间。",
+        "live_images": [
+            "/src/assets/imgs_lives/img16_1.JPG",
+            "/src/assets/imgs_lives/img16_2.JPG",
+            "/src/assets/imgs_lives/img16_3.JPG",
+            "/src/assets/imgs_lives/img16_4.JPG",
+            "/src/assets/imgs_lives/img16_5.JPG"
+        ]
+    },
+    {
+        "id": 17,
+        "点位": "世界技能博物馆",
+        "原址": "永安栈房",
+        "区域": "杨浦区",
+        "地址": "杨树浦路1578号",
+        "X": 6429.93750120892,
+        "Y": 2640.11180779011,
+        "images": [
+            "/src/assets/imgs/img17_1.JPG",
+            "/src/assets/imgs/img17_2.JPG",
+            "/src/assets/imgs/img17_3.JPG"
+        ],
+        "oldImage": "/src/assets/imgs_comparison/17 世界技能博物馆-84.jpg",
+        "newImage": "/src/assets/imgs_comparison/17 世界技能博物馆-23.jpg",
+        "描述1": "世界技能博物馆毗邻杨浦大桥，由百年历史建筑永安栈房改建而成，致力于展示国际技能发展历史和最新潮流。在博物馆内，工业遗存视觉清晰，从水泥柱子到墙体、楼梯等的配色、用料，都保持了工厂仓储建筑应有的风貌。在此基础上融入新的设计，自动扶梯、展示区、休息座位和公共艺术等，都结合了简约风格。",
+        "描述2": "博物馆以“小动作·大改变”为主题，设有“工具与我们的世界”“成功的全球运动”“技能发展与中国”“技能建设美好世界”“技能与基础科学”“技能与工业革命”等六大核心展区，聚焦“手、脑、心”的协同创新。在这座博物馆里，观众将看到人类生产技能、工业技术的演变历史，了解世界技能比赛活动的源起，及其发展成为世界技能组织、世界技能大赛的过程，并从中感受职业技能教育对人、家庭、城市、国家和世界带来的改变。",
+        "live_images": [
+            "/src/assets/imgs_lives/img17_1.JPG",
+            "/src/assets/imgs_lives/img17_2.JPG",
+            "/src/assets/imgs_lives/img17_3.JPG",
+            "/src/assets/imgs_lives/img17_4.JPG"
+        ]
+    },
+    {
+        "id": 18,
+        "点位": "上海国际时尚中心",
+        "原址": "上海第十七棉纺织总厂",
+        "区域": "杨浦区",
+        "地址": "杨树浦路2866号",
+        "X": 8199.80201245381,
+        "Y": 4348.1838820707,
+        "images": [
+            "/src/assets/imgs/img18_1.JPG",
+            "/src/assets/imgs/img18_2.JPG",
+            "/src/assets/imgs/img18_3.JPG"
+        ],
+        "oldImage": "/src/assets/imgs_comparison/18 上海国际时尚中心-84.jpg",
+        "newImage": "/src/assets/imgs_comparison/18 上海国际时尚中心-23.jpg",
+        "描述1": "上海国际时尚中心原为上海第十七棉纺织总厂，前身为1921年日商裕丰纺织株式会社裕丰纱厂。跨越了近一个世纪的优秀历史建筑，记录了上海纺织乃至中国纺织业的发展和变迁。从百年老厂成功转型后的上海国际时尚中心，总建筑面积约13万平方米，以时尚为核心立意，集创意、文化及现代服务经济于一体，更挖掘现有城市特色和资源优势，将百年建筑的历史内涵与现代时尚的文化底蕴巧妙融合。",
+        "描述2": "上海国际时尚中心2015年正式挂牌国家AAAA级旅游景区，拥有300多米的黄浦江岸线，汇集了壹号楼、多功能秀场、时尚精品仓、创意办公、设计师工作站及游船码头等功能板块。多功能秀场包括展厅、序厅、主秀场、后台、报告厅等多个功能区块，为上海与国际时尚业界提供了一个优质的交流平台。上海国际时尚中心以其独特的历史文化和时尚创意的无限空间，成为创意的策源地、时尚的承载地、休闲的体验地和品牌的发布地，是上海的又一张时尚名片。",
+        "live_images": [
+            "/src/assets/imgs_lives/img18_1.JPG",
+            "/src/assets/imgs_lives/img18_2.JPG",
+            "/src/assets/imgs_lives/img18_3.JPG",
+            "/src/assets/imgs_lives/img18_4.JPG",
+            "/src/assets/imgs_lives/img18_5.JPG",
+            "/src/assets/imgs_lives/img18_6.JPG"
+        ]
+    },
+    {
+        "id": 19,
+        "点位": "船厂1862",
+        "原址": "上海船厂",
+        "区域": "浦东新区",
+        "地址": "滨江大道1777号",
+        "X": 4059.70586940802,
+        "Y": 1205.39677267475,
+        "images": [
+            "/src/assets/imgs/img19_1.JPG",
+            "/src/assets/imgs/img19_2.JPG",
+            "/src/assets/imgs/img19_3.JPG"
+        ],
+        "oldImage": "/src/assets/imgs_comparison/19 船厂1862-84.jpg",
+        "newImage": "/src/assets/imgs_comparison/19 船厂1862-23.jpg",
+        "描述1": "船厂1862原址是始建于1862年的祥生船厂，已有160多年历史。她曾是中国现代工业文明的发源地之一，中国第一艘出口万吨轮“绍兴号”在这里建造下水，这里记录了中国造船工业的发展史。",
+        "描述2": "2005年，由中信泰富和中国船舶强强联手共同更新改造，并聘请建筑大师隈研吾先生主持，按照“修旧如旧、以旧融新”的理念进行修葺。经过6年的设计与工程建造，于2018年正式对外开放。成为上海商旅文体展融合发展的“世界级水岸夜生活带”上重要的一处景点，更是浦东滨江的地标代表。改造后的船厂1862建筑长200米、高30米，中间没有隔断，是一个巨大的通透空间，形成26000平方米的时尚艺术商业空间，包含一个811座的中型艺术剧院以及约1.6万平方米的沉浸式艺术商业空间，业态涵盖高端餐饮、精品零售、文化展览。",
+        "live_images": [
+            "/src/assets/imgs_lives/img19_1.JPG",
+            "/src/assets/imgs_lives/img19_2.JPG",
+            "/src/assets/imgs_lives/img19_3.JPG",
+            "/src/assets/imgs_lives/img19_4.JPG",
+            "/src/assets/imgs_lives/img19_5.JPG",
+            "/src/assets/imgs_lives/img19_6.JPG"
+        ]
+    },
+    {
+        "id": 20,
+        "点位": "上海世博文化公园",
+        "原址": "上海第三钢铁厂",
+        "区域": "浦东新区",
+        "地址": "世博大道2200号",
+        "X": 143.862855107666,
+        "Y": -5496.18262917036,
+        "images": [
+            "/src/assets/imgs/img20_1.JPG",
+            "/src/assets/imgs/img20_2.JPG",
+            "/src/assets/imgs/img20_3.JPG",
+            "/src/assets/imgs/img20_4.JPG",
+            "/src/assets/imgs/img20_5.JPG",
+            "/src/assets/imgs/img20_6.JPG",
+            "/src/assets/imgs/img20_7.JPG"
+        ],
+        "oldImage": "/src/assets/imgs_comparison/20 上海世博文化公园-84.jpg",
+        "newImage": "/src/assets/imgs_comparison/20 上海世博文化公园-23.jpg",
+        "描述1": "上海世博文化公园位于后滩地区，是一个集文化、艺术、科技和旅游于一体的综合性公园，前身是2010年上海世博会部分场馆所在地。公园内不仅继承了世博会的遗产，保留了法国馆、俄罗斯馆、意大利馆、卢森堡馆4个世博场馆，还新建了双子山、申园等特色景观，成为上海的重要地标，吸引市民游客前来游览。",
+        "描述2": "上海世博文化公园以“城市共生体”为设计理念，将水、地表、人文、自然等元素进行整合，打造循环再生、自我更新、开放共享、时代感鲜明的世界级文化公园。公园强调文化性、生态性、公共性于一体，通过南北山水轴和东西世博轴串联，形成“水、地表、人文、自然”多重层叠的景观结构体系。",
+        "live_images": [
+            "/src/assets/imgs_lives/img20_1.JPG",
+            "/src/assets/imgs_lives/img20_2.JPG",
+            "/src/assets/imgs_lives/img20_3.JPG",
+            "/src/assets/imgs_lives/img20_4.JPG"
+        ]
+    },
+    {
+        "id": 13,
+        "点位": "北外滩国客中心",
+        "原址": "上港五区",
+        "区域": "虹口区",
+        "地址": "东大名路500号",
+        "X": 2463.66591167172,
+        "Y": 1517.44238070491,
+        "images": [
+            "/src/assets/imgs/img13_1.JPG",
+            "/src/assets/imgs/img13_2.JPG",
+            "/src/assets/imgs/img13_3.JPG"
+        ],
+        "oldImage": "/src/assets/imgs_comparison/13 北外滩国客中心-84.jpg",
+        "newImage": "/src/assets/imgs_comparison/13 北外滩国客中心-23.jpg",
+        "描述1": "北外滩国客中心是拥有160年历史的上海码头门户，是上海开埠以后的经济贸易中心，更是坐拥上海天际线的北外滩滨水综合体，毗邻外滩万国博览群和世界会客厅。向对岸望去，是灯光璀璨的陆家嘴天际线，1200米璀璨滨江岸线，浦江全景尽收眼底。北外滩国客中心景区是全球新品首发地，兼具时尚、品位、创新、科技于一体，见证众多大牌的璀璨时刻。",
+        "描述2": "北外滩国客中心的地下空间经过焕新升级，以全新的身份和面貌亮相。这里曾是国内首个邮轮母港的商业配套空间，现在成了集艺术人文、潮流生活、时尚快闪等多种元素于一体的综合性场所——虹空间，与一线江景、水上秀场、滨水空间、绿地公园充分融合，成为虹口又一处文艺打卡地。",
+        "live_images": [
+            "/src/assets/imgs_lives/img13_1.JPG",
+            "/src/assets/imgs_lives/img13_2.JPG",
+            "/src/assets/imgs_lives/img13_3.JPG",
+            "/src/assets/imgs_lives/img13_4.JPG",
+            "/src/assets/imgs_lives/img13_5.JPG",
+            "/src/assets/imgs_lives/img13_6.JPG"
+        ]
+    },
+    {
+        "id": 14,
+        "点位": "今潮8弄",
+        "原址": "石库门里弄住宅",
+        "区域": "虹口区",
+        "地址": "四川北路989弄35-95号",
+        "X": 1195.67818856112,
+        "Y": 1988.09854641277,
+        "images": [
+            "/src/assets/imgs/img14_1.JPG",
+            "/src/assets/imgs/img14_2.JPG"
+        ],
+        "oldImage": "/src/assets/imgs_comparison/14 今潮8弄-84.jpg",
+        "newImage": "/src/assets/imgs_comparison/14 今潮8弄-23.jpg",
+        "描述1": "今潮8弄位于虹口区四川北路和海宁路交界，因完整保留修缮了8条弄堂内的66幢老建筑，并赋以现代商业功能而得名。今潮8弄以“海派弄堂”为载体，融入生活潮流，打造独具“海派今潮”特色的沉浸式文化艺术体验场，成为体验沪上生活潮流的城市热点。",
+        "描述2": "“海派今潮艺术季”秉持将不断重新定义的海派文化与生活潮流有机交融的初衷，从海派文化包容与创新的精神内核出发，打破剧场、舞台、美术馆的边界，让传统与现代、国潮与外潮、经典与未来在充满城市人文记忆、与整个城市没有边界的弄堂街区中自由流动、变幻、生长，从文艺演出、艺术展览、文创集市、学术交流、社区活动、艺品展销等六个不同板块呈现予公众观赏。",
+        "live_images": [
+            "/src/assets/imgs_lives/img14_1.JPG",
+            "/src/assets/imgs_lives/img14_2.JPG",
+            "/src/assets/imgs_lives/img14_3.JPG",
+            "/src/assets/imgs_lives/img14_4.JPG",
+            "/src/assets/imgs_lives/img14_5.JPG"
+        ]
+    },
+    {
+        "id": 15,
+        "点位": "1933老场坊",
+        "原址": "工部局宰牲场",
+        "区域": "虹口区",
+        "地址": "溧阳路611号",
+        "X": 1899.14573496319,
+        "Y": 2335.46459949808,
+        "images": [
+            "/src/assets/imgs/img15_1.JPG",
+            "/src/assets/imgs/img15_2.JPG",
+            "/src/assets/imgs/img15_3.JPG",
+            "/src/assets/imgs/img15_4.JPG"
+        ],
+        "oldImage": "/src/assets/imgs_comparison/15 1933老场坊-84.jpg",
+        "newImage": "/src/assets/imgs_comparison/15 1933老场坊-23.jpg",
+        "描述1": "1933老场坊的前身是上海工部局宰牲场，建于1933年，著名英国设计师巴尔弗斯设计。1933老场坊的建筑融汇了东西方特色，整体建筑可见古罗马巴西利卡式风格，而外方内圆的基本结构也暗合了中国风水学说中 “天圆地方”的传统理念。“无梁楼盖”“伞形柱”“廊桥”“旋梯”“牛道”等众多特色风格建筑融会贯通，光影和空间的无穷变幻呈现出一个独一无二的建筑奇葩。不同的季节，不同的时间，不同的角度，永远可以领略到1933老场坊不一样的风情。",
+        "描述2": "1933老场坊以生活方式、创意、求知为核心要素，融时尚发布、创意设计、品牌定制、文化求知、创意休闲为一体，汇聚艺术家、设计师、教育家、企业精英于一堂，形成机体和内核整合互动为一、风尚诠释复古的创意生活体验中心。而富有历史底蕴的建筑中多元化的场地也成为国际顶级品牌活动的舞台，上演一场场视觉的饕餮盛宴。",
+        "background_img": "/src/assets/imgs_background/15.JPG",
+        "live_images": [
+            "/src/assets/imgs_lives/img15_1.JPG",
+            "/src/assets/imgs_lives/img15_2.JPG",
+            "/src/assets/imgs_lives/img15_3.JPG",
+            "/src/assets/imgs_lives/img15_4.JPG",
+            "/src/assets/imgs_lives/img15_5.JPG"
+        ]
+    },
+    {
+        "id": 11,
+        "点位": "上生新所",
+        "原址": "上海生物制品研究所",
+        "区域": "长宁区",
+        "地址": "延安西路1262号",
+        "X": -4228.58490688664,
+        "Y": -2784.31889024935,
+        "images": [
+            "/src/assets/imgs/img11_1.JPG",
+            "/src/assets/imgs/img11_2.JPG"
+        ],
+        "oldImage": "/src/assets/imgs_comparison/11 上生新所-84.jpg",
+        "newImage": "/src/assets/imgs_comparison/11 上生新所-23.jpg",
+        "描述1": "上生新所位于美国乡村总会旧址，原是上海生物制品研究所办公地。1951年，为推进上海市防疫工作的开展，上海生物制品研究所在此选址，为我国健康卫生事业的发展作出了诸多贡献，在此后60多年内陆续建造科研办公、实验室、厂房仓库及配套用房。",
+        "描述2": "2016年，因发展需要，上生所科研办公迁往位于奉贤的新厂区，置换出数十栋建筑。随着变封闭式科技园区为开放式公共社区，从百年遗产到上海新晋文艺地标，严格按照“留、改、拆”的城市更新理念，以对公众完全开放为目标，经过设计改造、盘活存量，将原有单一生产研发功能的单位大院，升级成为集文化、办公、商业、零售的开放式一体化公共街区，形成了由孙科别墅、哥伦比亚乡村俱乐部、海军俱乐部及附属泳池、茑屋书店、晨品人才公寓等组成的整体空间，打造符合市民生活需求的“7*24小时活力社区”，成就了上海城市更新的标志性项目和更新范本。",
+        "live_images": [
+            "/src/assets/imgs_lives/img11_1.JPG",
+            "/src/assets/imgs_lives/img11_2.JPG",
+            "/src/assets/imgs_lives/img11_3.JPG",
+            "/src/assets/imgs_lives/img11_4.JPG",
+            "/src/assets/imgs_lives/img11_5.JPG"
+        ]
+    },
+    {
+        "id": 9,
+        "点位": "张园",
+        "原址": "石库门里弄住宅",
+        "区域": "静安区",
+        "地址": "茂名北路188弄",
+        "X": -1147.12668208796,
+        "Y": -736.957592204213,
+        "images": [
+            "/src/assets/imgs/img9_1.JPG",
+            "/src/assets/imgs/img9_2.JPG",
+            "/src/assets/imgs/img9_3.JPG",
+            "/src/assets/imgs/img9_4.JPG",
+            "/src/assets/imgs/img9_5.JPG",
+            "/src/assets/imgs/img9_6.JPG",
+            "/src/assets/imgs/img9_7.JPG",
+            "/src/assets/imgs/img9_8.JPG"
+        ],
+        "oldImage": "/src/assets/imgs_comparison/9 张园-84.jpg",
+        "newImage": "/src/assets/imgs_comparison/9 张园-23.jpg",
+        "描述1": "张园位于南京西路风貌保护区核心位置，原为建成于1885年的私家花园——张氏味莼园。百年前，张园曾是电灯在上海的试燃之地，也是上海第一个室外照相馆的开办地。凭借着地势之利和旺盛的人气，张园也越来越频繁地举办大型公众活动，电影、赛花、焰火大会以及各种表演和比赛也都纷纷在此亮相。20世纪初，沪上相继建成“海上大观园”、新世界、大世界等娱乐场所，张园于1918年停办。租界当局将土地分割成28块出售，用于建造石库门里弄住宅，形成了种类多样、风格各异的里弄建筑，并发展留存为上海最大的中后期石库门建筑群。",
+        "描述2": "张园的保护性改造是优秀历史建筑群落保护和城市更新的一次深度有机融合。在延续张园历史街区风貌的同时，让一个古典和现代相交融的张园保持绵延不断的生机活力，重现在世界面前。张园以石库门为载体，坚持传统海派文化与国际时尚文化相融合，在原味传承海派历史特色风貌的基础上，拓展体验式商业、多元式文化的功能空间，形成文商旅联动发展；展现“上海购物”“上海文化”的独特魅力；致力于成为中心城区新标杆、上海发展新亮点。",
+        "live_images": [
+            "/src/assets/imgs_lives/img9_1.JPG",
+            "/src/assets/imgs_lives/img9_2.JPG",
+            "/src/assets/imgs_lives/img9_3.JPG",
+            "/src/assets/imgs_lives/img9_4.JPG",
+            "/src/assets/imgs_lives/img9_5.JPG"
+        ]
+    },
+    {
+        "id": 10,
+        "点位": "苏河湾万象天地",
+        "原址": "石库门里弄住宅",
+        "区域": "静安区",
+        "地址": "福建北路100号",
+        "X": 582.1006618058,
+        "Y": 1299.47495162161,
+        "images": [
+            "/src/assets/imgs/img10_1.JPG",
+            "/src/assets/imgs/img10_2.JPG"
+        ],
+        "oldImage": "/src/assets/imgs_comparison/10 苏河湾万象天地-84.jpg",
+        "newImage": "/src/assets/imgs_comparison/10 苏河湾万象天地-23.jpg",
+        "描述1": "苏州河一路的蜿蜒奔流，孕育了上海早期的繁荣，也见证着上海的历史变迁。在流经乌镇路至浙江北路时，苏州河优雅地划出了一道长达千米的亮丽弧线——苏河湾。苏河湾记载了上海民族工商业发展的脉络，在上世纪初，是上海民族资本集聚地和重要物资集散中心，这里素有“黄金走廊”之称。上世纪30年代的“苏河湾”，曾被誉为沪上的“清明上河图”。",
+        "描述2": "苏河湾万象天地由6万平方米开放式商业空间和4.2万平方米的城市绿地公园组成，利用错落的多层立体设计，有一大半建筑位于地下，并拥有优秀历史建筑“天后宫”和“慎余里”。",
+        "live_images": [
+            "/src/assets/imgs_lives/img10_1.JPG",
+            "/src/assets/imgs_lives/img10_2.JPG",
+            "/src/assets/imgs_lives/img10_3.JPG",
+            "/src/assets/imgs_lives/img10_4.JPG",
+            "/src/assets/imgs_lives/img10_5.JPG"
+        ]
+    },
+    {
+        "id": 1,
+        "点位": "外滩·中央",
+        "原址": "中央商场",
+        "区域": "黄浦区",
+        "地址": "南京东路123号",
+        "X": 1511.79966555677,
+        "Y": 532.731748148333,
+        "images": [
+            "/src/assets/imgs/img1_1.JPG",
+            "/src/assets/imgs/img1_2.JPG"
+        ],
+        "oldImage": "/src/assets/imgs_comparison/1 外滩·中央-84.jpg",
+        "newImage": "/src/assets/imgs_comparison/1 外滩·中央-23.jpg",
+        "描述1": "外滩·中央是外滩“第二立面”城市更新的标志性项目，由中央大楼、美伦大楼、新康大楼和华侨大楼这四幢历史保护建筑构成，见证了百年南京路的繁荣过往。这里曾有上海煤气公司的专卖店，记录了煤气路灯、电灯、电话、自来水、有轨电车等在上海的最早开通；曾有启蒙上海人西餐礼仪的德大西菜社；曾有上海最好的摄影工作室——上海美术照相馆；也曾有老上海人几乎都去过的“淘宝地”中央商场。",
+        "描述2": "外滩·中央项目按照“重现风貌，重塑功能”的总体要求，对老大楼进行保护修缮，恢复四幢大楼当中的十字内街，顶上加盖巨型玻璃穹顶，保留了原有的新古典主义风格，在城市肌理完美保留的同时，使沿街风貌更统一和谐。",
+        "live_images": [
+            "/src/assets/imgs_lives/img1_1.JPG",
+            "/src/assets/imgs_lives/img1_2.JPG",
+            "/src/assets/imgs_lives/img1_3.JPG",
+            "/src/assets/imgs_lives/img1_4.JPG",
+            "/src/assets/imgs_lives/img1_5.JPG"
+        ]
+    },
+    {
+        "id": 2,
+        "点位": "外滩·老市府",
+        "原址": "公共租界工部局",
+        "区域": "黄浦区",
+        "地址": "江西中路215号",
+        "X": 1444.77446175257,
+        "Y": 279.595542060211,
+        "images": [
+            "/src/assets/imgs/img2_1.JPG",
+            "/src/assets/imgs/img2_2.JPG"
+        ],
+        "oldImage": "/src/assets/imgs_comparison/2 外滩·老市府-84.jpg",
+        "newImage": "/src/assets/imgs_comparison/2 外滩·老市府-23.jpg",
+        "描述1": "外滩·老市府即原工部局大楼，地处外滩“第二立面”，其更新改造是上海城市更新的示范项目。这里是解放后上海市人民政府首个办公驻地，留下了新中国上海市第一任市长陈毅同志的工作身影。",
+        "描述2": "外滩·老市府为新古典主义风格，高五层，外立面以花岗岩饰面呈现出浅米色。附近居民称其为“石头房子”。在过去近百年时间里，原设计方案中西南角的建筑没有建成，大楼保持着“未完成”的形态。在更新改造过程中，遵循原方案的设计理念，补上了缺口，新建筑和老楼实现了原先的围合式设计。从街区步入围合区域，映入眼帘的是一处开阔的庭院广场，使市民游客感受到历史建筑环抱的独特氛围。庭院内生机勃勃，绿色草坪、植被间点缀着各色花卉，一株百年的紫薇树生长旺盛，还有一处“旱地喷泉”营造出水雾弥漫的场景。庭院内还将引入各种高品质的公共文化活动与商业文化业态，丰富市民游客的体验。",
+        "live_images": [
+            "/src/assets/imgs_lives/img2_1.JPG",
+            "/src/assets/imgs_lives/img2_2.JPG",
+            "/src/assets/imgs_lives/img2_3.JPG"
+        ]
+    },
+    {
+        "id": 3,
+        "点位": "新天地",
+        "原址": "石库门里弄住宅",
+        "区域": "黄浦区",
+        "地址": "太仓路181弄",
+        "X": 297.269697962766,
+        "Y": -1446.26488415291,
+        "images": [
+            "/src/assets/imgs/img3_1.JPG",
+            "/src/assets/imgs/img3_2.JPG",
+            "/src/assets/imgs/img3_3.JPG",
+            "/src/assets/imgs/img3_4.JPG",
+            "/src/assets/imgs/img3_5.JPG",
+            "/src/assets/imgs/img3_6.JPG",
+            "/src/assets/imgs/img3_7.JPG"
+        ],
+        "oldImage": "/src/assets/imgs_comparison/3 新天地-84.jpg",
+        "newImage": "/src/assets/imgs_comparison/3 新天地-23.jpg",
+        "描述1": "新天地是以上海近代标志性建筑——石库门建筑为基础，具有海派历史文化风貌，中西融合的都市旅游景点。新天地位于太平桥地区，其更新改造首次改变了石库门建筑原有的居住功能，创新地赋予其商业经营功能，把这片老房子改造成具有餐饮、购物、演艺等功能的休闲文化娱乐中心，将新的生命力注入旧建筑，以符合新世纪消费者的需求。",
+        "描述2": "漫步新天地，仿佛时光倒流，有如置身于二十世纪20、30年代的上海。当跨入建筑内部，则感受到现代和时尚，亲身体会新天地独特的理念。这有机的组合与错落有致地巧妙安排形成了一曲海派交响乐，让海内外游客品味独特的文化。",
+        "live_images": [
+            "/src/assets/imgs_lives/img3_1.JPG",
+            "/src/assets/imgs_lives/img3_2.JPG",
+            "/src/assets/imgs_lives/img3_3.JPG",
+            "/src/assets/imgs_lives/img3_4.JPG"
+        ]
+    },
+    {
+        "id": 4,
+        "点位": "思南公馆",
+        "原址": "花园住宅",
+        "区域": "黄浦区",
+        "地址": "思南路55号",
+        "X": -294.173910683909,
+        "Y": -2082.61140959477,
+        "images": [
+            "/src/assets/imgs/img4_1.JPG",
+            "/src/assets/imgs/img4_2.JPG",
+            "/src/assets/imgs/img4_3.JPG",
+            "/src/assets/imgs/img4_4.JPG"
+        ],
+        "oldImage": "/src/assets/imgs_comparison/4 思南公馆-84.jpg",
+        "newImage": "/src/assets/imgs_comparison/4 思南公馆-23.jpg",
+        "描述1": "思南公馆又名思南路历史街区，拥有51幢历史保留保护建筑，汇聚了独立式花园洋房、联立式花园洋房、带内院独立式花园洋房、联排式建筑、外廊式建筑、新式里弄、花园里弄、现代公寓等多种建筑样式，是上海近代居住类建筑的集中地。周恩来、曾朴、梅兰芳、柳亚子等都曾居住于此。",
+        "描述2": "比起老洋房记录的百年居住风貌，经过保护性修缮与适应性再生的思南公馆，跟新天地、田子坊的改造一样，都是上海历史街区更新工作中具有代表意义的一笔。历史、文化、技术、人物、故事、情感都融合在这个重生的街区中，为上海这个古老而绮丽的城市讲述只属于她的独特经历。",
+        "live_images": [
+            "/src/assets/imgs_lives/img4_1.JPG",
+            "/src/assets/imgs_lives/img4_2.JPG",
+            "/src/assets/imgs_lives/img4_3.JPG",
+            "/src/assets/imgs_lives/img4_4.JPG",
+            "/src/assets/imgs_lives/img4_5.JPG"
+        ]
+    },
+    {
+        "id": 5,
+        "点位": "上海当代艺术博物馆",
+        "原址": "南市发电厂",
+        "区域": "黄浦区",
+        "地址": "苗江路678号",
+        "X": 2554.1515071588,
+        "Y": -3591.27429358009,
+        "images": [
+            "/src/assets/imgs/img5_1.JPG",
+            "/src/assets/imgs/img5_2.JPG",
+            "/src/assets/imgs/img5_3.JPG"
+        ],
+        "oldImage": "/src/assets/imgs_comparison/5 上海当代艺术博物馆-84.jpg",
+        "newImage": "/src/assets/imgs_comparison/5 上海当代艺术博物馆-23.jpg",
+        "描述1": "上海当代艺术博物馆选址于2010年上海世博会城市未来馆，前身是始建于1897年的南市发电厂。它不仅见证了上海从工业到信息时代的城市变迁，也挥别了对能源无度攫取的过去。其粗砺不羁的工业建筑风格更是为艺术家的奇思妙想提供了丰富的可能。其建筑主体长128米，宽70米，高50米，建筑面积约31000多平方米。高达165米的钢筋混凝土烟囱笔直高耸，具有极强的标志性，见证了中国近代工业的发展历程，昭示着浦江两岸新一轮的历史机遇和文化创造。改建后，其建筑面积增加至4万多平方米，展陈面积达到1.5万平方米，拥有12个展厅。",
+        "描述2": "上海当代艺术博物馆的目标是搭建起当代艺术与民众之间的沟通桥梁，汇聚国内外当代艺术的优秀成果，利用多种渠道展示、收集和保存当代艺术的优秀作品，为民众打造一个活跃、创新、开放的视觉艺术学习中心。",
+        "live_images": [
+            "/src/assets/imgs_lives/img5_1.JPG",
+            "/src/assets/imgs_lives/img5_2.JPG",
+            "/src/assets/imgs_lives/img5_3.JPG",
+            "/src/assets/imgs_lives/img5_4.JPG"
+        ]
+    },
+    {
+        "id": 6,
+        "点位": "上海潜艇展览馆",
+        "原址": "江南造船厂",
+        "区域": "黄浦区",
+        "地址": "龙华东路98号3号船坞",
+        "X": 1600.42096212319,
+        "Y": -4143.46971265506,
+        "images": [
+            "/src/assets/imgs/img6_1.JPG",
+            "/src/assets/imgs/img6_2.JPG"
+        ],
+        "oldImage": "/src/assets/imgs_comparison/6 上海潜艇展览馆-84.jpg",
+        "newImage": "/src/assets/imgs_comparison/6 上海潜艇展览馆-23.jpg",
+        "描述1": "上海潜艇展览馆（中国航海博物馆黄浦分馆）位于黄浦江畔原江南造船厂的3号船坞。展馆主体是“长城191号”潜艇——守卫我国蓝色国土的“水下蛟龙”，它是我国第一代自主研发建造的常规动力潜艇035型潜艇的衍生型号，从南海舰队退役后，由中国人民解放军海军赠与上海市。这艘潜水艇长76米、宽7.6米，是典型的常规动力攻击型潜艇，其内部设置了参观动线，可以让参观者沉浸式体验到潜艇官兵们当时的工作及生活场景。",
+        "描述2": "随着上海潜艇展览馆的建成，黄浦滨江工业遗迹将焕发新的生机，黄浦百年工业文化将进一步彰显魅力，拓展上海市民休闲娱乐新空间，为上海打造文化品牌，激发创新创造活力贡献力量。",
+        "live_images": [
+            "/src/assets/imgs_lives/img6_1.JPG",
+            "/src/assets/imgs_lives/img6_2.JPG",
+            "/src/assets/imgs_lives/img6_3.JPG",
+            "/src/assets/imgs_lives/img6_4.JPG",
+            "/src/assets/imgs_lives/img6_5.JPG"
+        ]
+    }
+]
